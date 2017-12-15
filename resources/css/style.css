@@ -57,6 +57,15 @@ a {
 
 }
 
-.main {
+
+#gallery {
+  display: flex;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.items {
+  justify-content: center;
+  height: 8rem;
 
 }
